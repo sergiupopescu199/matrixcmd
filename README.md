@@ -1,5 +1,5 @@
 #  Inverse matrix
-## Small cmd programm, it calculate the determinant and the inverse of an NxN matrix from file
+## Small CLI programm, it calculate the determinant and the inverse of an NxN matrix from file
 
 I just started to study the Go programming language, to understand how slices work I wrote a small program to calvulate the determinant and the inverse of an NxN matrix.
 
