@@ -1,7 +1,7 @@
 #  Inverse matrix
 ## Small CLI programm, it calculate the determinant and the inverse of an NxN matrix from file
 
-I just started to study the Go programming language, to understand how slices work I wrote a small program to calvulate the determinant and the inverse of an NxN matrix.
+I just started to study the Go programming language, to understand how slices work I wrote a small program to calculate the determinant and the inverse of an NxN matrix.
 
 - clone the repository
 - enter in the repository folder and execute `go mod vendor` to download dependecy (I used cobra package)
